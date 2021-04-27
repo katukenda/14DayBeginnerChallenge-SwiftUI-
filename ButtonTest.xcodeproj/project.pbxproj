@@ -7,23 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		063ACA4B2633C3DA0027B838 /* war_challengeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063ACA4A2633C3DA0027B838 /* war_challengeApp.swift */; };
-		063ACA4D2633C3DA0027B838 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063ACA4C2633C3DA0027B838 /* ContentView.swift */; };
-		063ACA4F2633C3DB0027B838 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 063ACA4E2633C3DB0027B838 /* Assets.xcassets */; };
-		063ACA522633C3DB0027B838 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 063ACA512633C3DB0027B838 /* Preview Assets.xcassets */; };
+		06D4E7312637A36A004FBED5 /* ButtonTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D4E7302637A36A004FBED5 /* ButtonTestApp.swift */; };
+		06D4E7332637A36A004FBED5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D4E7322637A36A004FBED5 /* ContentView.swift */; };
+		06D4E7352637A36B004FBED5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D4E7342637A36B004FBED5 /* Assets.xcassets */; };
+		06D4E7382637A36B004FBED5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D4E7372637A36B004FBED5 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		063ACA472633C3DA0027B838 /* war-challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "war-challenge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		063ACA4A2633C3DA0027B838 /* war_challengeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = war_challengeApp.swift; sourceTree = "<group>"; };
-		063ACA4C2633C3DA0027B838 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		063ACA4E2633C3DB0027B838 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		063ACA512633C3DB0027B838 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		063ACA532633C3DB0027B838 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		06D4E72D2637A36A004FBED5 /* ButtonTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ButtonTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		06D4E7302637A36A004FBED5 /* ButtonTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonTestApp.swift; sourceTree = "<group>"; };
+		06D4E7322637A36A004FBED5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		06D4E7342637A36B004FBED5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		06D4E7372637A36B004FBED5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		06D4E7392637A36B004FBED5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		063ACA442633C3DA0027B838 /* Frameworks */ = {
+		06D4E72A2637A36A004FBED5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -33,38 +33,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		063ACA3E2633C3DA0027B838 = {
+		06D4E7242637A36A004FBED5 = {
 			isa = PBXGroup;
 			children = (
-				063ACA492633C3DA0027B838 /* war-challenge */,
-				063ACA482633C3DA0027B838 /* Products */,
+				06D4E72F2637A36A004FBED5 /* ButtonTest */,
+				06D4E72E2637A36A004FBED5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		063ACA482633C3DA0027B838 /* Products */ = {
+		06D4E72E2637A36A004FBED5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				063ACA472633C3DA0027B838 /* war-challenge.app */,
+				06D4E72D2637A36A004FBED5 /* ButtonTest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		063ACA492633C3DA0027B838 /* war-challenge */ = {
+		06D4E72F2637A36A004FBED5 /* ButtonTest */ = {
 			isa = PBXGroup;
 			children = (
-				063ACA4A2633C3DA0027B838 /* war_challengeApp.swift */,
-				063ACA4C2633C3DA0027B838 /* ContentView.swift */,
-				063ACA4E2633C3DB0027B838 /* Assets.xcassets */,
-				063ACA532633C3DB0027B838 /* Info.plist */,
-				063ACA502633C3DB0027B838 /* Preview Content */,
+				06D4E7302637A36A004FBED5 /* ButtonTestApp.swift */,
+				06D4E7322637A36A004FBED5 /* ContentView.swift */,
+				06D4E7342637A36B004FBED5 /* Assets.xcassets */,
+				06D4E7392637A36B004FBED5 /* Info.plist */,
+				06D4E7362637A36B004FBED5 /* Preview Content */,
 			);
-			path = "war-challenge";
+			path = ButtonTest;
 			sourceTree = "<group>";
 		};
-		063ACA502633C3DB0027B838 /* Preview Content */ = {
+		06D4E7362637A36B004FBED5 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				063ACA512633C3DB0027B838 /* Preview Assets.xcassets */,
+				06D4E7372637A36B004FBED5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -72,38 +72,38 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		063ACA462633C3DA0027B838 /* war-challenge */ = {
+		06D4E72C2637A36A004FBED5 /* ButtonTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 063ACA562633C3DB0027B838 /* Build configuration list for PBXNativeTarget "war-challenge" */;
+			buildConfigurationList = 06D4E73C2637A36B004FBED5 /* Build configuration list for PBXNativeTarget "ButtonTest" */;
 			buildPhases = (
-				063ACA432633C3DA0027B838 /* Sources */,
-				063ACA442633C3DA0027B838 /* Frameworks */,
-				063ACA452633C3DA0027B838 /* Resources */,
+				06D4E7292637A36A004FBED5 /* Sources */,
+				06D4E72A2637A36A004FBED5 /* Frameworks */,
+				06D4E72B2637A36A004FBED5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "war-challenge";
-			productName = "war-challenge";
-			productReference = 063ACA472633C3DA0027B838 /* war-challenge.app */;
+			name = ButtonTest;
+			productName = ButtonTest;
+			productReference = 06D4E72D2637A36A004FBED5 /* ButtonTest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		063ACA3F2633C3DA0027B838 /* Project object */ = {
+		06D4E7252637A36A004FBED5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
-					063ACA462633C3DA0027B838 = {
+					06D4E72C2637A36A004FBED5 = {
 						CreatedOnToolsVersion = 12.4;
 					};
 				};
 			};
-			buildConfigurationList = 063ACA422633C3DA0027B838 /* Build configuration list for PBXProject "war-challenge" */;
+			buildConfigurationList = 06D4E7282637A36A004FBED5 /* Build configuration list for PBXProject "ButtonTest" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -111,42 +111,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 063ACA3E2633C3DA0027B838;
-			productRefGroup = 063ACA482633C3DA0027B838 /* Products */;
+			mainGroup = 06D4E7242637A36A004FBED5;
+			productRefGroup = 06D4E72E2637A36A004FBED5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				063ACA462633C3DA0027B838 /* war-challenge */,
+				06D4E72C2637A36A004FBED5 /* ButtonTest */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		063ACA452633C3DA0027B838 /* Resources */ = {
+		06D4E72B2637A36A004FBED5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				063ACA522633C3DB0027B838 /* Preview Assets.xcassets in Resources */,
-				063ACA4F2633C3DB0027B838 /* Assets.xcassets in Resources */,
+				06D4E7382637A36B004FBED5 /* Preview Assets.xcassets in Resources */,
+				06D4E7352637A36B004FBED5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		063ACA432633C3DA0027B838 /* Sources */ = {
+		06D4E7292637A36A004FBED5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				063ACA4D2633C3DA0027B838 /* ContentView.swift in Sources */,
-				063ACA4B2633C3DA0027B838 /* war_challengeApp.swift in Sources */,
+				06D4E7332637A36A004FBED5 /* ContentView.swift in Sources */,
+				06D4E7312637A36A004FBED5 /* ButtonTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		063ACA542633C3DB0027B838 /* Debug */ = {
+		06D4E73A2637A36B004FBED5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -207,7 +207,7 @@
 			};
 			name = Debug;
 		};
-		063ACA552633C3DB0027B838 /* Release */ = {
+		06D4E73B2637A36B004FBED5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -262,44 +262,44 @@
 			};
 			name = Release;
 		};
-		063ACA572633C3DB0027B838 /* Debug */ = {
+		06D4E73D2637A36B004FBED5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"war-challenge/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ButtonTest/Preview Content\"";
 				DEVELOPMENT_TEAM = LL3FKWQC79;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "war-challenge/Info.plist";
+				INFOPLIST_FILE = ButtonTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "katukenda.war-challenge";
+				PRODUCT_BUNDLE_IDENTIFIER = katukenda.ButtonTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		063ACA582633C3DB0027B838 /* Release */ = {
+		06D4E73E2637A36B004FBED5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"war-challenge/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ButtonTest/Preview Content\"";
 				DEVELOPMENT_TEAM = LL3FKWQC79;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "war-challenge/Info.plist";
+				INFOPLIST_FILE = ButtonTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "katukenda.war-challenge";
+				PRODUCT_BUNDLE_IDENTIFIER = katukenda.ButtonTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		063ACA422633C3DA0027B838 /* Build configuration list for PBXProject "war-challenge" */ = {
+		06D4E7282637A36A004FBED5 /* Build configuration list for PBXProject "ButtonTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				063ACA542633C3DB0027B838 /* Debug */,
-				063ACA552633C3DB0027B838 /* Release */,
+				06D4E73A2637A36B004FBED5 /* Debug */,
+				06D4E73B2637A36B004FBED5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		063ACA562633C3DB0027B838 /* Build configuration list for PBXNativeTarget "war-challenge" */ = {
+		06D4E73C2637A36B004FBED5 /* Build configuration list for PBXNativeTarget "ButtonTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				063ACA572633C3DB0027B838 /* Debug */,
-				063ACA582633C3DB0027B838 /* Release */,
+				06D4E73D2637A36B004FBED5 /* Debug */,
+				06D4E73E2637A36B004FBED5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 063ACA3F2633C3DA0027B838 /* Project object */;
+	rootObject = 06D4E7252637A36A004FBED5 /* Project object */;
 }
