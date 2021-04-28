@@ -1,14 +1,14 @@
 //
-//  war_challengeApp.swift
-//  war-challenge
+//  Lesson11App.swift
+//  Lesson11
 //
-//  Created by Janitha Katukenda on 2021-04-24.
+//  Created by Janitha Katukenda on 2021-04-28.
 //
 
 import SwiftUI
 
 @main
-struct war_challengeApp: App {
+struct Lesson11App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
